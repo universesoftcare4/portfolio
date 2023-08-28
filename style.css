@@ -1,0 +1,26 @@
+*{
+    background-color: rgb(190, 211, 180);
+}
+
+.container{
+    display: flex;
+}
+.button {
+text-decoration: none;
+border: 1px solid green;
+background-color: aqua;
+padding: 5px 10px;
+border-radius: 12px;
+}
+.text {
+
+    color: brown;
+}
+.half {
+    width: 50%;
+}
+.half img { 
+    width: 80%;
+    border-radius: 20px;
+    
+}
